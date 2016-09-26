@@ -1,0 +1,1 @@
+var HowDy = angular.module('HowDy', []);
